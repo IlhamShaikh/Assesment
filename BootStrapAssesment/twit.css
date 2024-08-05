@@ -1,0 +1,27 @@
+.main{
+    height: 450px;
+width: 350px;
+justify-content: center;
+align-content: center;
+}
+.container{
+    height: 400px;
+    width: 250px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.button1{
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 200px;
+    height: 35px;
+    border-radius: 30px;
+    text-align: center;
+}
+.twit{
+ font-size: 25px;
+font-weight: 500;  
+}
